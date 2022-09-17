@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/abhiramvv.github.io/static/css/main.367af228.chunk.css",
+    "main.js": "/abhiramvv.github.io/static/js/main.a32df857.chunk.js",
+    "main.js.map": "/abhiramvv.github.io/static/js/main.a32df857.chunk.js.map",
+    "runtime-main.js": "/abhiramvv.github.io/static/js/runtime-main.307ac96e.js",
+    "runtime-main.js.map": "/abhiramvv.github.io/static/js/runtime-main.307ac96e.js.map",
+    "static/css/2.d6dc494e.chunk.css": "/abhiramvv.github.io/static/css/2.d6dc494e.chunk.css",
+    "static/js/2.4d6bbcce.chunk.js": "/abhiramvv.github.io/static/js/2.4d6bbcce.chunk.js",
+    "static/js/2.4d6bbcce.chunk.js.map": "/abhiramvv.github.io/static/js/2.4d6bbcce.chunk.js.map",
+    "static/js/3.32079802.chunk.js": "/abhiramvv.github.io/static/js/3.32079802.chunk.js",
+    "static/js/3.32079802.chunk.js.map": "/abhiramvv.github.io/static/js/3.32079802.chunk.js.map",
+    "index.html": "/abhiramvv.github.io/index.html",
+    "static/css/2.d6dc494e.chunk.css.map": "/abhiramvv.github.io/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/main.367af228.chunk.css.map": "/abhiramvv.github.io/static/css/main.367af228.chunk.css.map",
+    "static/js/2.4d6bbcce.chunk.js.LICENSE.txt": "/abhiramvv.github.io/static/js/2.4d6bbcce.chunk.js.LICENSE.txt",
+    "static/media/ABHIRAM_CV_ENGLISH.44e383bb.pdf": "/abhiramvv.github.io/static/media/ABHIRAM_CV_ENGLISH.44e383bb.pdf",
+    "static/media/about.663be9ad.svg": "/abhiramvv.github.io/static/media/about.663be9ad.svg",
+    "static/media/avatar.2ab2e724.svg": "/abhiramvv.github.io/static/media/avatar.2ab2e724.svg",
+    "static/media/me.fa9f43e1.jpg": "/abhiramvv.github.io/static/media/me.fa9f43e1.jpg",
+    "static/media/style.css": "/abhiramvv.github.io/static/media/pre.69be4f1b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.307ac96e.js",
+    "static/css/2.d6dc494e.chunk.css",
+    "static/js/2.4d6bbcce.chunk.js",
+    "static/css/main.367af228.chunk.css",
+    "static/js/main.a32df857.chunk.js"
+  ]
+}
